@@ -86,9 +86,9 @@ ANSWER
 ![](doc//MyApp.png)
 
 what is the prerequisite for another machine to run your application if you provide it in the docker image?
-== Prerequisite for another machine to run it is that the machine must have Docker installed. Docker is a containerization platform that allows you to package your application and all its dependencies into a container, which can then be run on any machine that has Docker installed.
+==>Prerequisite for another machine to run it is that the machine must have Docker installed. Docker is a containerization platform that allows you to package your application and all its dependencies into a container, which can then be run on any machine that has Docker installed.
 
 What is the difference between virtual machine and docker container?
-== Virtual machines emulate a complete hardware environment, including an operating system, on top of a host machine's physical hardware. Docker containers, on the other hand, share the host machine's kernel and run isolated user-space instances, making them much lighter and faster than VMs.
+==>Virtual machines emulate a complete hardware environment, including an operating system, on top of a host machine's physical hardware. Docker containers, on the other hand, share the host machine's kernel and run isolated user-space instances, making them much lighter and faster than VMs.
 
 
